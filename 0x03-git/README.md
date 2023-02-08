@@ -18,3 +18,4 @@ git remote
 git push
 git pull
 git stash
+git push
