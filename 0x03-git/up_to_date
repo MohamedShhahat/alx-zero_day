@@ -17,4 +17,4 @@ git merge
 git remote
 git push
 git pull
-git stash
+git stash$ cd ..
